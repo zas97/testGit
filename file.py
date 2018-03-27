@@ -5,6 +5,7 @@ def func(x):
 
 def func2(x):
     return x+5
+
 def algo(x):
     return x*3
 
