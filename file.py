@@ -15,4 +15,4 @@ def newFunc(z):
 
 x=5
 y=7
-print(x+y+3)
+print(x+y)
