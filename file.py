@@ -19,3 +19,4 @@ def algo3(h):
 x=5
 y=7
 print(x+y+3)
+print(3)
