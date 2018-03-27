@@ -9,7 +9,8 @@ def func2(x):
 def algo(x):
     return x*3
 
-
+def newFunc(z):
+    return z*4
 
 
 x=5
