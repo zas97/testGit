@@ -3,6 +3,10 @@
 def func(x):
     return x+3
 
+def algo(x):
+    return x*3
+
+
 
 
 x=5
