@@ -1,4 +1,6 @@
 
+def f(z):
+    return z
 
 def f(x):
     x=3
